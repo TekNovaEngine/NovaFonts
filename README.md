@@ -1,8 +1,8 @@
 # NovaFonts
-#eng
+#eng:
 Font's API for web, c/c++ and python
 
-#ita 
+#ita:
 Un'ottima API per caricare font su siti web e altri linguaggi come c/c++ e python.
 Offre una vasta scelta di font
 
